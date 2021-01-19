@@ -6,4 +6,4 @@ Adding this line for diff comparision.
 
 Adding to verify p4merge
 
-Added line in new branch
+This is what we suppose to get conflicted
