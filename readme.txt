@@ -10,3 +10,4 @@ This is what we suppose to get conflicted
 
 This shit will cause problem.
 Where is that shit
+Example of stashing
